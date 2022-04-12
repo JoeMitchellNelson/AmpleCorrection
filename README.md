@@ -1,5 +1,5 @@
 # Ample correction for sample selection
-Code and simulation results to accompany "Ample correction for sample selection in the estimation of choice models using online survey panels"
+Code and simulation results to accompany "Ample correction for sample selection in the estimation of choice models using online survey panels."
 Public draft available soon.
 
 ## Analyze_results.R
