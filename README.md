@@ -1,6 +1,5 @@
 # Ample correction for sample selection
-Code and simulation results to accompany "Ample correction for sample selection in the estimation of choice models using online survey panels."
-Public draft available soon.
+Code and simulation results to accompany "Ample correction for sample selection in the estimation of choice models using online survey panels," co-authored with Trudy Ann Cameron. Public draft available soon.
 
 ## Analyze_results.R
 Reads in simulation results for one large and 100 small simulations of the mixed logit selection correction method. Calculates summary statistics and produces plots. Running this file does not require serious computational resources.
